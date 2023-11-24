@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Summary</h1>
+        <p>I'm a trained aircraft mechanic who worked as a freelance musician for a long time, and have now discovered an interest in coding.</p> 
+        <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" height="200" alt="one person sits at the table with a laptop ">
+        <hr/>
+        <h2>Education</h2>
+            <ul>
+                <li>2002-2005 secondary-school</li>
+            </ul>
+        <h2>Work Expereince</h2>
+        <hr/>
+        <table style="border:solid">
+            <tr>
+                <th>Date</th>
+                <th>Work</th>
+                <th>Degree</th>
+            </tr>
+            <tr>
+                <td>2005</td>
+                <td>Aircraft mechanic</td>
+                <td>Traninee</td>
+            </tr>
+            <tr>
+                <td>2008</td>
+                <td>Aircraft mechanic</td>
+                <td>Permanently employed</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Musican</td>
+                <td>Self-employed</td>
+            </tr>
+        </table>
+        <hr/>
+        <h2>Skills</h2>
+            <ul>
+                <li>MS Office</li>
+                <li>HTML</li>
+                <li>CSS</li>
+            </ul>
+        <h4><a href="https://deinecousine.de/">Contact</a></h3>
+        <footer> © Schraube 2023</footer>
+    </body>
+</html>
